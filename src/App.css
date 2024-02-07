@@ -728,6 +728,15 @@ video {
 }
 
 .conteudo-botao {
+  position: relative;
+  z-index: 99;
+  width: 19%;
+  margin-left: 1%;
+}
+
+.conteudo-botao-grafico {
+  position: relative;
+  z-index: 9;
   width: 19%;
   margin-left: 1%;
 }

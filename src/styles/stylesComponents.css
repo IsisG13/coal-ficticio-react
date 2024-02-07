@@ -1,0 +1,33 @@
+/* START GRAFICO-CLIENTE */
+.grafico-cliente {
+    background-color: plum;
+}
+
+/* END GRAFICO-CLIENTE */
+
+
+
+/* START GRAFICO-CONSULTOR */
+.grafico-consultor {
+    background-color: blueviolet;
+}
+
+/* END GRAFICO-CONSULTOR */
+
+
+
+/* START RELATORIO-CLIENTE */
+.relatorio-cliente {
+    background-color: palevioletred;
+}
+
+/* END RELATORIO-CLIENTE */
+
+
+
+/* START RELATORIO-CONSULTOR */
+.relatorio-consultor {
+    background-color: cornflowerblue;
+}
+
+/* END RELATORIO-CONSULTOR */

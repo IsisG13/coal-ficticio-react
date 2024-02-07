@@ -1,7 +1,6 @@
-import logo from "./logo.svg";
-import "./App.css";
+import "../App.css";
 
-function App() {
+function Home() {
   return (
     <div className="App">
       <main className="Caol">
@@ -16,7 +15,7 @@ function App() {
             </a>
           </div>
 
-          <div className="conteudo-botao">
+          <div className="conteudo-botao-grafico">
             <a href="/resultado-do-botao-grafico">
               <button>Gráfico consultor</button>
             </a>
@@ -33,7 +32,7 @@ function App() {
             </a>
           </div>
 
-          <div className="conteudo-botao">
+          <div className="conteudo-botao-grafico">
             <a href="/resultado-do-botao-grafico-cliente">
               <button>Gráfico cliente</button>
             </a>
@@ -45,4 +44,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
