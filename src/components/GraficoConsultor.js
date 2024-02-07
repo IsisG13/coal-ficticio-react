@@ -129,7 +129,7 @@ function GraficoConsultor() {
                 <canvas ref={chartBarRef}></canvas>
             </div>
 
-            <div style={{ width: '74%', marginTop: '8%', marginLeft: '17%' }}>
+            <div style={{ width: '39%', marginTop: '8%', marginLeft: '27%' }}>
                 <canvas ref={chartPieRef}></canvas>
             </div>
         </div>

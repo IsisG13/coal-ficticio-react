@@ -138,7 +138,7 @@ function GraficoCliente() {
             </div>
 
             {/* Gráfico de Pizza */}
-            <div style={{ width: '74%', marginTop: '5%', marginLeft: '14%' }}>
+            <div style={{ width: '39%', marginTop: '5%', marginLeft: '27%' }}>
                 <canvas ref={chartPieRef}></canvas>
             </div>
         </div>
