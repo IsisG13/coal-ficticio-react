@@ -1,5 +1,6 @@
 /* START GRAFICO-CLIENTE */
-.grafico-cliente, .grafico-consultor h1 {
+.grafico-cliente,
+.grafico-consultor h1 {
   font-size: 130%;
   margin-top: 2%;
   margin-bottom: 3%;
@@ -19,15 +20,228 @@
 /* END GRAFICO-CONSULTOR */
 
 /* START RELATORIO-CLIENTE */
+
 .relatorio-cliente {
-  background-color: palevioletred;
+  h4 {
+    margin: 13px;
+  }
+
+  h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 130%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+  .conteudoRelatorio {
+    font-weight: bold;
+    font-size: 75%;
+    display: flex;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+
+  .conteudoRelatorio .usuario {
+    width: 23%;
+  }
+
+  .conteudoRelatorio h5 {
+    margin: 13px;
+    width: 16%;
+  }
+
+  .champion-true {
+    border-radius: 50%;
+    width: 9%;
+    height: 69px;
+    background-color: #3498db;
+  }
+
+  .champion-true h3 {
+    margin-top: 1%;
+  }
+
+  .champion-false {
+    background-color: transparent;
+  }
+
+  @media (max-width: 960px) {
+    h1 {
+      text-align: center;
+      font-weight: bold;
+      font-size: 130%;
+      margin-top: 2%;
+      margin-bottom: 2%;
+    }
+    .conteudoRelatorio {
+      font-weight: bold;
+      font-size: 75%;
+      display: flex;
+      padding: 10px;
+      border: 1px solid #ccc;
+    }
+
+    .conteudoRelatorio .usuario {
+      width: 23%;
+    }
+
+    .conteudoRelatorio h5 {
+      width: 21%;
+    }
+
+    .champion-true {
+      border-radius: 50%;
+      width: 9%;
+      height: 69px;
+      background-color: #3498db;
+    }
+    .champion-false {
+      background-color: transparent;
+    }
+  }
+
+  @media (max-width: 800px) {
+    h1 {
+      text-align: center;
+      font-weight: bold;
+      font-size: 130%;
+      margin-top: 2%;
+      margin-bottom: 2%;
+    }
+    .conteudoRelatorio {
+      font-weight: bold;
+      font-size: 100%;
+      display: flex;
+      padding: 10px;
+      border: 1px solid #ccc;
+      flex-direction: column;
+    }
+
+    .conteudoRelatorio .usuario {
+      width: 104%;
+    }
+
+    .conteudoRelatorio h5 {
+      width: 104%;
+    }
+
+    .champion-true {
+      border-radius: 50%;
+      margin-left: 4%;
+      margin-top: -13%;
+      width: 22%;
+      height: 69px;
+      background-color: #3498db;
+    }
+
+    .champion-false {
+      background-color: transparent;
+    }
+  }
 }
 
 /* END RELATORIO-CLIENTE */
 
 /* START RELATORIO-CONSULTOR */
 .relatorio-consultor {
-  background-color: cornflowerblue;
+  h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 130%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.conteudoRelatorio {
+    font-weight: bold;
+    font-size: 75%;
+    display: flex;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.conteudoRelatorio .usuario {
+    width: 23%;
+}
+
+.conteudoRelatorio h5 {
+    width: 16%;
+}
+
+@media(max-width: 960px) {
+    h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 130%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+p {
+  margin: 20px;
+}
+.conteudoRelatorio {
+    font-weight: bold;
+    font-size: 75%;
+    display: flex;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.conteudoRelatorio .usuario {
+    width: 23%;
+}
+
+.conteudoRelatorio h5 {
+    width: 16%;
+}
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 130%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.conteudoRelatorio {
+    font-weight: bold;
+    display: flex;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.conteudoRelatorio .usuario {
+    width: 23%;
+}
+
+.conteudoRelatorio h5 {
+    width: 16%;
+}
+
+@media (max-width: 800px) {
+    h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 130%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.conteudoRelatorio {
+    font-weight: bold;
+    display: flex;
+    padding: 10px;
+    border: 1px solid #ccc;
+    flex-direction: column;
+}
+
+.conteudoRelatorio .usuario {
+    width: 104%;
+}
+
+.conteudoRelatorio h5 {
+    width: 104%;
+}
+}
 }
 
 /* END RELATORIO-CONSULTOR */

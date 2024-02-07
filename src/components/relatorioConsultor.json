@@ -1,0 +1,53 @@
+[
+    {
+      "no_usuario": "Usuário 1",
+      "co_sistema": "1",
+      "in_ativo": "S",
+      "co_tipo_usuario": "Tipo 1",
+      "receita_liquida": 1000,
+      "custo_fixo": 500,
+      "comissao": 100,
+      "lucro": 400
+    },
+    {
+      "no_usuario": "Usuário 2",
+      "co_sistema": "1",
+      "in_ativo": "S",
+      "co_tipo_usuario": "Tipo 2",
+      "receita_liquida": 1500,
+      "custo_fixo": 600,
+      "comissao": 200,
+      "lucro": 700
+    },
+    {
+      "no_usuario": "Usuário 3",
+      "co_sistema": "1",
+      "in_ativo": "S",
+      "co_tipo_usuario": "Tipo 1",
+      "receita_liquida": 1200,
+      "custo_fixo": 550,
+      "comissao": 150,
+      "lucro": 500
+    },
+    {
+      "no_usuario": "Usuário 4",
+      "co_sistema": "1",
+      "in_ativo": "S",
+      "co_tipo_usuario": "Tipo 2",
+      "receita_liquida": 800,
+      "custo_fixo": 450,
+      "comissao": 80,
+      "lucro": 270
+    },
+    {
+      "no_usuario": "Usuário 5",
+      "co_sistema": "1",
+      "in_ativo": "S",
+      "co_tipo_usuario": "Tipo 1",
+      "receita_liquida": 1700,
+      "custo_fixo": 700,
+      "comissao": 250,
+      "lucro": 750
+    }
+  ]
+  

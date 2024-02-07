@@ -1,0 +1,83 @@
+[
+    {
+      "co_cliente": 1,
+      "no_contato": "Contato 1",
+      "nu_telefone": "(11) 12345-6789",
+      "mes_referencia": "2024-01",
+      "receita": 1500,
+      "is_champion": 1
+    },
+    {
+      "co_cliente": 2,
+      "no_contato": "Contato 2",
+      "nu_telefone": "(22) 98765-4321",
+      "mes_referencia": "2024-01",
+      "receita": 1200,
+      "is_champion": 0
+    },
+    {
+      "co_cliente": 3,
+      "no_contato": "Contato 3",
+      "nu_telefone": "(33) 55555-5555",
+      "mes_referencia": "2024-02",
+      "receita": 1800,
+      "is_champion": 1
+    },
+    {
+      "co_cliente": 4,
+      "no_contato": "Contato 4",
+      "nu_telefone": "(44) 44444-4444",
+      "mes_referencia": "2024-02",
+      "receita": 1350,
+      "is_champion": 0
+    },
+    {
+      "co_cliente": 5,
+      "no_contato": "Contato 5",
+      "nu_telefone": "(55) 33333-3333",
+      "mes_referencia": "2024-03",
+      "receita": 1650,
+      "is_champion": 1
+    },
+    {
+      "co_cliente": 6,
+      "no_contato": "Contato 6",
+      "nu_telefone": "(66) 22222-2222",
+      "mes_referencia": "2024-03",
+      "receita": 1400,
+      "is_champion": 0
+    },
+    {
+      "co_cliente": 7,
+      "no_contato": "Contato 7",
+      "nu_telefone": "(77) 66666-6666",
+      "mes_referencia": "2024-04",
+      "receita": 1900,
+      "is_champion": 1
+    },
+    {
+      "co_cliente": 8,
+      "no_contato": "Contato 8",
+      "nu_telefone": "(88) 77777-7777",
+      "mes_referencia": "2024-04",
+      "receita": 1250,
+      "is_champion": 0
+    },
+    {
+      "co_cliente": 9,
+      "no_contato": "Contato 9",
+      "nu_telefone": "(99) 88888-8888",
+      "mes_referencia": "2024-05",
+      "receita": 1550,
+      "is_champion": 1
+    },
+    {
+      "co_cliente": 10,
+      "no_contato": "Contato 10",
+      "nu_telefone": "(00) 99999-9999",
+      "mes_referencia": "2024-05",
+      "receita": 1300,
+      "is_champion": 0
+    }
+  ]
+  
