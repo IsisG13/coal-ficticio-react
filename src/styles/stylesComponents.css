@@ -1,33 +1,33 @@
 /* START GRAFICO-CLIENTE */
-.grafico-cliente {
-    background-color: plum;
+.grafico-cliente, .grafico-consultor h1 {
+  font-size: 130%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  text-align: center;
 }
 
 /* END GRAFICO-CLIENTE */
 
-
-
 /* START GRAFICO-CONSULTOR */
-.grafico-consultor {
-    background-color: blueviolet;
-}
+/* .grafico-consultor {
+    font-size: 130%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    text-align: center;
+} */
 
 /* END GRAFICO-CONSULTOR */
 
-
-
 /* START RELATORIO-CLIENTE */
 .relatorio-cliente {
-    background-color: palevioletred;
+  background-color: palevioletred;
 }
 
 /* END RELATORIO-CLIENTE */
 
-
-
 /* START RELATORIO-CONSULTOR */
 .relatorio-consultor {
-    background-color: cornflowerblue;
+  background-color: cornflowerblue;
 }
 
 /* END RELATORIO-CONSULTOR */
